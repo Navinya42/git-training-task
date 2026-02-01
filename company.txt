@@ -1,4 +1,4 @@
 Company Name: ABC Ltd
 Location: Pune
 
-About: Hello
+About: We provide IT training and placements.
